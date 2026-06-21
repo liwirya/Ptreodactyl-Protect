@@ -1,0 +1,13 @@
+{
+  "name": "Monitoring VPS + Pterodactyl Node",
+  "version": "1.0.0",
+  "description": "Created And Developer By: XYCoolcraft",
+  "main": "xayzprotect.js",
+  "scripts": {
+    "start": "node xayzprotect.js"
+  },
+  "dependencies": {
+    "telegraf": "latest",
+    "axios": "latest"
+  }
+}

@@ -1,0 +1,1 @@
+{"target":"private","groups":[],"cpuThreshold":100,"cpuDurationMs":60000,"warnMode":"confirm","ramLimitGB":10,"diskPteroLimitGB":12,"diskOsLimitGB":5,"osScanIntervalMs":100,"apiScanIntervalMs":1000,"totalPunished":0,"panelUrl":"-","ptla":"-","ptlc":"-"}
